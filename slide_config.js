@@ -2,7 +2,7 @@ var SLIDE_CONFIG = {
   // Slide settings
   settings: {
     title: 'What is Android',
-    subtitle: '안드로이드에 관련된 이야기들',
+    subtitle: '안드로이드에 관련된 이야기들, I/O Extended 2013 @Incheon',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
